@@ -1,5 +1,7 @@
 Code quality: ![Maven Build](https://github.com/tommens/calculator-cucumber/actions/workflows/maven.yml/badge.svg)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=GuillaumeKerckhofs_TimerStopWatch-Project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=GuillaumeKerckhofs_TimerStopWatch-Project)
+
 # TimerStopWatch-Project
 Java implementation of a statechart with Timer and Stopwatch functionality.
 This repository contains a simple example used for teaching purposes by Tom Mens at the University of Mons.
@@ -78,4 +80,4 @@ The code can be compiled, tested and executed with maven:
 
 ## Acknowledgments
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=GuillaumeKerckhofs_TimerStopWatch-Project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=GuillaumeKerckhofs_TimerStopWatch-Project)
+
